@@ -1,2 +1,2 @@
-# leetcode_75
-Solutions to Leetcode 75 questions
+# leetcode
+Solutions to Leetcode questions
